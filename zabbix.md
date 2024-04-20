@@ -72,3 +72,7 @@ Step 5.	Edit the agent configuration file and provide the details.
   vim /etc/zabbix/zabbix_agentd.conf ----- Add Zabbix server IP in Server, ServerActive and add Hostname.
 Step 6.	Start the agent service
   /etc/init.d/zabbix-agent restart
+
+  ========
+  After Install zabbix 
+  ref document : https://www.zabbix.com/documentation/current/downloads/Zabbix_Documentation_6.4.en.pdf
