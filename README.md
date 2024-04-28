@@ -10,3 +10,4 @@ GRAFANA Cloud and ZABBIX Integration
 Final file : https://bestmonitoringtools.com/how-to-install-zabbix-server-on-ubuntu/
 
 Grafana and zabbix : file : https://www.zabbix.com/integrations/grafana
+demo : https://play.grafana-zabbix.org/d/000000003/grafana-zabbix-demo?orgId=2
