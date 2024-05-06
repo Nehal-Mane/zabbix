@@ -11,3 +11,5 @@ Final file : https://bestmonitoringtools.com/how-to-install-zabbix-server-on-ubu
 
 Grafana and zabbix : file : https://www.zabbix.com/integrations/grafana
 demo : https://play.grafana-zabbix.org/d/000000003/grafana-zabbix-demo?orgId=2
+
+Install and Configure Zabbix Server on Ubuntu 24.04 : https://computingforgeeks.com/install-and-configure-zabbix-server-on-ubuntu/
